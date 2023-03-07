@@ -14,7 +14,7 @@ rscale = 60
 around = False
 
 def r(t):
-    return rscale * (2*math.sin(2*t))
+    return rscale * (3*math.sin(2*t))
 
 t = 0.0
 points = []
